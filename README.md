@@ -15,7 +15,7 @@
 
 使用vue,我们可以更加轻松的构建生产环境,实现复杂的js功能.
 
-你可以在[官方文档](https://v3.cn.vuejs.org/guide/installation.html)来了解更多内容.
+你可以在[官方文档](https://cn.vuejs.org/v2/guide/installation.html)来了解更多内容.
 
 ### 2. 起步
 
@@ -24,7 +24,7 @@
 如下:
 
 ```html
-<script src="https://unpkg.com/vue@next"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
 //引用最新版本的vue,可用于学习
 ```
 
@@ -43,7 +43,7 @@ vue ui
 
 
 
-你可以在[官方文档](https://cli.vuejs.org/zh/)中了解更多.
+你可以在[Vue CLI 文档](https://cli.vuejs.org/zh/)中了解更多.
 
 ### 3. 课前的学习
 
@@ -69,7 +69,7 @@ vue ui
 
 ### 5.一些学习资源
 
-+ [官方文档](https://v3.cn.vuejs.org/guide/introduction.html)
++ [官方文档](https://cn.vuejs.org/v2/guide/installation.html)
 + [菜鸟教程](https://www.runoob.com/vue3/vue3-tutorial.html)
 + [黑马程序员VUE](https://www.bilibili.com/video/BV1HE411e7vY?from=search&seid=8861358602188379430&spm_id_from=333.337.0.0)
 + [vue教程](https://www.bilibili.com/video/BV15741177Eh?from=search&seid=17782212123703946783&spm_id_from=333.337.0.0)
