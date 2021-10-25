@@ -28,22 +28,6 @@
 //引用最新版本的vue,可用于学习
 ```
 
-也可以采用**npm方式**安装:
-
-我们使用vue-cli来构建webpack,你可以使用如下命令来安装vue-cli
-
-~~~sh
-#安装vue-cli包
-npm install -g @vue/cli
-#创建vue项目
-vue create my-project
-# OR
-vue ui
-~~~
-
-
-
-你可以在[Vue CLI 文档](https://cli.vuejs.org/zh/)中了解更多.
 
 ### 3. 课前的学习
 
@@ -65,7 +49,6 @@ vue ui
 
 + 课前学习内容
 + vue component组件
-+ 构建简单webpack
 
 ### 5.一些学习资源
 
