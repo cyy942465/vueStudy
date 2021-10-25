@@ -51,8 +51,8 @@ vue ui
 
 + 使用vue的文本绑定在控制台输出hello,world!
 
-+ 了解vue的结构和生命周期
-+ 学习vue的常用指令
++ 了解vue的结构和生命周期.
++ 学习vue的常用指令.
   + v-bind
   + v-model
   + v-if
