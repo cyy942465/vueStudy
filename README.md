@@ -65,11 +65,16 @@ vue ui
 
 + 课前学习内容
 + vue component组件
-+ 构建简单的webpack
++ 构建简单webpack
 
 ### 5.一些学习资源
 
++ [官方教程 ](https://learning.dcloud.io/#/?vid=0)
+
 + [官方文档](https://cn.vuejs.org/v2/guide/installation.html)
+
+其他资料:
+
 + [菜鸟教程](https://www.runoob.com/vue3/vue3-tutorial.html)
 + [黑马程序员VUE](https://www.bilibili.com/video/BV1HE411e7vY?from=search&seid=8861358602188379430&spm_id_from=333.337.0.0)
 + [vue教程](https://www.bilibili.com/video/BV15741177Eh?from=search&seid=17782212123703946783&spm_id_from=333.337.0.0)
